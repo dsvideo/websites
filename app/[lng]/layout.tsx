@@ -28,7 +28,6 @@ export async function generateMetadata({
     title: params.lng === "en" ? "DSVideo" : "DSVideo",
     description: `${params.lng === "en" ? "DSVideo" : "DSVideo"}.`,
     metadataBase: new URL("https://kjxbyz.com"),
-    themeColor: "#FFF",
     icons: {
       icon: "/dsvideo/logo.jpg",
     },
