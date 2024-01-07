@@ -1,5 +1,7 @@
 # dsvideo
 
+[![CodeFactor](https://www.codefactor.io/repository/github/dsvideo/websites/badge)](https://www.codefactor.io/repository/github/dsvideo/websites)
+
 ## Setup
 
 Make sure to install the dependencies:
