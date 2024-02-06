@@ -1,6 +1,6 @@
 # dsvideo
 
-[![CodeFactor](https://www.codefactor.io/repository/github/dsvideo/websites/badge)](https://www.codefactor.io/repository/github/dsvideo/websites)
+[![CodeFactor](https://www.codefactor.io/repository/github/alisoft/dsvideo/badge)](https://www.codefactor.io/repository/github/alisoft/dsvideo)
 
 ## Setup
 
