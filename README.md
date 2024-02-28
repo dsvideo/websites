@@ -1,7 +1,5 @@
 # dsvideo
 
-[![CodeFactor](https://www.codefactor.io/repository/github/alisoft/dsvideo/badge)](https://www.codefactor.io/repository/github/alisoft/dsvideo)
-
 ## Setup
 
 Make sure to install the dependencies:
