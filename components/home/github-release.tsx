@@ -117,7 +117,7 @@ export default function GitHubRelease({ lng }: LngProps) {
               {t("latest")}:{" "}
               <Link
                 className="text-[#0a60ff]"
-                href={`https://github.com/alisoft/dsaudio/releases/tag/${data?.tag_name}`}
+                href={`https://github.com/dsvideo/dsaudio/releases/tag/${data?.tag_name}`}
                 target="_blank"
               >
                 {data?.tag_name}
