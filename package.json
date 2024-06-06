@@ -19,7 +19,7 @@
     "contentlayer": "^0.3.4",
     "date-fns": "^3.6.0",
     "focus-trap-react": "^10.2.3",
-    "framer-motion": "^11.2.6",
+    "framer-motion": "^11.2.10",
     "http-status": "^1.7.4",
     "i18next": "^23.11.5",
     "i18next-browser-languagedetector": "^8.0.0",
@@ -50,7 +50,7 @@
     "@tailwindcss/line-clamp": "^0.4.4",
     "@tailwindcss/typography": "^0.5.13",
     "@types/ms": "^0.7.34",
-    "@types/node": "18.19.33",
+    "@types/node": "18.19.34",
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
     "autoprefixer": "^10.4.19",
@@ -59,14 +59,14 @@
     "husky": "^9.0.11",
     "lint-staged": "^15.2.5",
     "postcss": "^8.4.38",
-    "prettier": "^3.2.5",
-    "prettier-plugin-tailwindcss": "^0.5.14",
+    "prettier": "^3.3.1",
+    "prettier-plugin-tailwindcss": "^0.6.1",
     "prop-types": "^15.8.1",
-    "tailwindcss": "^3.4.3",
+    "tailwindcss": "^3.4.4",
     "typescript": "5.4.5"
   },
   "engines": {
     "node": "^18"
   },
-  "packageManager": "pnpm@9.1.2"
+  "packageManager": "pnpm@9.1.4"
 }
