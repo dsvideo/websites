@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@octokit/rest": "^21.0.0",
-    "@tsparticles/engine": "^3.4.0",
+    "@tsparticles/engine": "^3.5.0",
     "@tsparticles/react": "^3.0.0",
     "accept-language": "^3.0.18",
     "classnames": "^2.5.1",
